@@ -1,0 +1,15 @@
+:root {
+    --color-gray: #ccc
+    --light-gray: #dcdcdc
+    --color-dime-gray: #696969 
+    --color-black: #00000 
+    --color-white: #fff 
+
+}
+
+/* --------- Secciones------- */ 
+/* ---------> Nav */ 
+
+.navbar-fixed-bottom {
+    padding-bottom: 70px;
+}
